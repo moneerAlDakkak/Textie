@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Textie/precache-manifest.9b54a4459d704e94b56b3efae655572a.js"
+  "/Textie/precache-manifest.87111623c376e325562f1d59f6dedfbb.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "textie"});
